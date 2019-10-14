@@ -43,33 +43,46 @@ El objetivo principal de aprendizaje es adquirir experiencia desarrollando
 aplicaciones web (WebApp) que interactúen con el usuario a través del navegador
 y la lógica, utilizando HTML, CSS y JavaScript como herramientas.
 
-Dicho en palabras sencillas, aprenderás a:
+### UX
 
-* Organizar tu tiempo y priorizar tareas en un entorno de **alta incertidumbre**.
-* Entender las **necesidades del usuario** y cómo proponerle una solución.
-* Entender la importancia del proceso de prototipado durante la creación de un
-  proyecto digital.
-* Conocer los principios básicos del diseño visual.
-* Utilizar etiquetas semánticas  de HTML y elementos de formulario.
-* Utilizar diversos tipos de selectores en CSS: de elemento, de clase, de id,
-  etc.
-* Utilizar el modelo de cajas (border, margin, padding)
-* Definir reglas de estilos en CSS.
-* Utilizar eventos del DOM que le permitan al usuario interactuar con la
-  aplicación.
-* Utilizar los métodos de selección del DOM.
-* Actualizar de manera dinámica el contenido de la aplicación a través de
-  innerHTML o textContent.
-* Manipular _**strings**_ (cadenas de texto).
-* Usar **control de flujo if-else, do-while** (bucles y condicionales).
-* _Implementar funciones_ dada una descripción de su comportamiento.
-* Verificar que tus funciones hagan las cosas para las que fueron creadas
-(**pruebas unitarias (_test_) con Jest**).
-* Configurar tu cuenta de _git_.
-* _Forkear_ y _clonar_ el repositorio del proyecto.
-* Mantener actualizado los cambios en tu repositorio remoto (`commit`, `pull`,
-  `push`).
-* Desplegar tu proyecto en [GitHub Pages](https://pages.github.com).
+- [ ] Diseñar la aplicación pensando y entendiendo al usuario.
+- [ ] Crear prototipos para obtener feedback e iterar.
+- [ ] Aplicar los principios de diseño visual (contraste, alineación, jerarquía).
+
+### HTML y CSS
+
+- [ ] Uso correcto de HTML semántico.
+- [ ] Uso de selectores de CSS.
+- [ ] Construir tu aplicación respetando el diseño realizado (maquetación).
+
+### DOM
+
+- [ ] Uso de selectores del DOM.
+- [ ] Manejo de eventos del DOM.
+- [ ] Manipulación dinámica del DOM.
+
+### Javascript
+
+- [ ] Manipulación de strings.
+- [ ] Uso de condicionales (if-else | switch).
+- [ ] Uso de bucles (for | do-while).
+- [ ] Uso de funciones (parámetros | argumentos | valor de retorno).
+- [ ] Declaración correcta de variables (const & let).
+- [ ] Uso de ES Modules (import | export).
+
+### Testing
+- [ ] Testeo de tus funciones.
+
+### Git y GitHub
+- [ ] Comandos de git (add | commit | pull | status | push).
+- [ ] Manejo de repositorios de GitHub (clone | fork | gh-pages).
+
+### Buenas prácticas de desarrollo
+- [ ] Organizar y dividir el código en módulos (Modularización).
+- [ ] Uso de identificadores descriptivos (Nomenclatura | Semántica).
+- [ ] Uso de linter para seguir buenas prácticas (ESLINT).
+
+Al finalizar el proyecto, reflexiona y luego marca los objetivos que has llegado a **entender** y **aplicar**.
 
 ## 4. Consideraciones generales
 
