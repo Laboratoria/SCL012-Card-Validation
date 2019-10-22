@@ -257,16 +257,16 @@ Diseño de experiencia de usuario (User Experience Design):
 
 Desarrollo Front-end:
 
-* Valores
-* Tipos
-* Variables
-* Control de flujo
-* Tests unitarios
+* [Valores](https://lms.laboratoria.la/cohorts/scl-2019-10-bc-core-scl012/courses/javascript/01-basics/01-values-variables-and-types)
+* [Tipos](https://lms.laboratoria.la/cohorts/scl-2019-10-bc-core-scl012/courses/javascript/01-basics/01-values-variables-and-types)
+* [Variables](https://lms.laboratoria.la/cohorts/scl-2019-10-bc-core-scl012/courses/javascript/01-basics/02-variables)
+* [Control de flujo](https://lms.laboratoria.la/cohorts/scl-2019-10-bc-core-scl012/courses/javascript/02-flow-control/00-opening)
+* [Tests unitarios](https://lms.laboratoria.la/cohorts/scl-2019-10-bc-core-scl012/courses/javascript/11-testing/00-opening)
 * [Documentación de NPM](https://docs.npmjs.com/)
 
 Herramientas:
 
-* GitHub y GitHub Pages.
+* [GitHub y GitHub Pages](https://guides.github.com/)
 
 Organización del Trabajo:
 
