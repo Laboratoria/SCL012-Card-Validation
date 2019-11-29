@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Bebas+Neue|Montserrat|Open+Sans|Roboto&display=swap');
 
 body {
-background:#c2e8ce;	
+background:#c2e8ce;
 background-attachment: fixed;
 background-size: cover;
 margin: 0;
@@ -30,24 +30,24 @@ text-align: center;
 font-weight: 300;
 }
 
-	 
+
 p {
 font-size: 1.5em;
-line-height: 1.3em;	
+line-height: 1.3em;
 font-family:'Roboto', sans-serif;
 margin: 0 1.5em 1.5em 0;
-text-align: left; 
+text-align: left;
 }
 
 
 
 #main-header {
+z-index: 3;
 background: #333;
 color:#ffffff;
 height: 80px;
-width: 100%; 
-left: 0; 
-top: 20px; 
+width: 100%;
+left: 0;
 position: fixed;
 }
 
@@ -57,7 +57,7 @@ color: #ffffff;
 
 
 
-     
+
 /* Logo gift box */
 
 #logo-header {
@@ -76,7 +76,7 @@ font-size: 4em;
 
 
 
-/*SLider*/	
+/*SLider*/
 
 .slider {
 width: 95%;
@@ -84,7 +84,7 @@ margin: auto;
 margin-top:-50px;
 overflow: hidden;
 }
-		
+
 .slider ul {
 display: flex;
 padding: 0;
@@ -96,76 +96,79 @@ animation: cambio 20s infinite alternate linear;
 width: 100%;
 list-style: none;
 }
-		
+
 .slider img {
 width: 100%;
 }
-		
+
 @keyframes cambio {
 	0% {margin-left: 0;}
 	20% {margin-left: 0;}
-			
+
 	25% {margin-left: -100%;}
 	45% {margin-left: -100%;}
-			
+
 	50% {margin-left: -200%;}
 	70% {margin-left: -200%;}
-			
+
 	75% {margin-left: -300%;}
 	100% {margin-left: -300%;}
 }
-		
 
 
-	 
+
+
 /* Menu*/
 
 nav {
 float: right;
 }
-	
+
 nav ul {
 margin: 0;
 padding: 0;
 list-style: none;
 padding-right: 20px;
 }
-		
+
 nav ul li {
 display: inline-block;
 line-height: 80px;
 }
-				
+
 nav ul li a {
 display: block;
 padding: 0 10px;
 text-decoration: none;
 }
-				
+
 nav ul li a:hover {
 background:#9f116a;
-}	 
+}
 
 #main-content {
 background:#f5ffff;
-width: 90%;
-max-width: 800px;
+width:62%;
 margin: 20px auto;
 box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
-					 
+
+.text {
+	margin-left: 100px;
+}
+
 #main-content header,
 #main-content .content {
 padding: 30px;
 }
-	
 
 
 
 
 
 
-					
+
+
 
 * {
 margin: 0px;
@@ -174,6 +177,7 @@ padding: 0px;
 
 /*CSS DE LOS PRODUCTOS*/
 img.imagen {
+width: 12rem;
 margin-left:auto;
 margin-right:auto;
 display:block;
@@ -185,13 +189,18 @@ color:pink;
 text-align:center;
 width:222px;
 height:22px;
+padding-top: 1rem;
 }
 
-div.stock {padding-left:0px;}
+div.stock {
+	padding-left:30px;
+	margin-top: 0.5rem;
+}
 
 input.uniBien {
 position:relative;
-margin-left:45px;
+margin-top: 0.5rem;
+margin-left: 0px;
 background:white;
 }
 
@@ -205,26 +214,29 @@ div.divsNo {display:none;}
 div.divsSi {display:yes;}
 
 #todo{
-position:relative;
-top:0px;
+display:block;
+
 margin-left:auto;
 margin-right:auto;
-display:block;
 width:62%;
+height: 1500px;
 line-height: 1.0em;
 background: #f5ffff no-repeat;
 box-shadow: 0 0 10px rgba(0,0,0,.1);
 }
 
+.eligeGift {
+	text-align: center;
+	padding: 2rem;
+}
 
 div.todoNo{height:800px;}
 div.todoSi{height:800px;}
 
 
 #menu{
-position:absolute;
-top:26px;
-left:143px;
+position:relative;
+left:100px;
 width:715px;
 }
 
@@ -235,7 +247,7 @@ div.menuSi{height:1040px;}
 
 #div1{
 position:absolute;
-top:38px;
+
 left:12px;
 width:221px;
 height:217px;
@@ -243,7 +255,7 @@ height:217px;
 
 #div2{
 position:absolute;
-top:38px;
+
 left:246px;
 width:221px;
 height:217px;
@@ -251,7 +263,7 @@ height:217px;
 
 #div3{
 position:absolute;
-top:38px;
+
 left:480px;
 width:221px;
 height:217px;
@@ -259,7 +271,7 @@ height:217px;
 
 #div4{
 position:absolute;
-top:271px;
+top:350px;
 left:12px;
 width:221px;
 height:217px;
@@ -267,7 +279,7 @@ height:217px;
 
 #div5{
 position:absolute;
-top:271px;
+top:350px;
 left:246px;
 width:221px;
 height:217px;
@@ -275,7 +287,7 @@ height:217px;
 
 #div6{
 position:absolute;
-top:271px;
+top:350px;
 left:480px;
 width:221px;
 height:217px;
@@ -283,7 +295,7 @@ height:217px;
 
 #div7{
 position:absolute;
-top:504px;
+top:700px;
 left:12px;
 width:221px;
 height:217px;
@@ -291,7 +303,7 @@ height:217px;
 
 #div8{
 position:absolute;
-top:504px;
+top:700px;
 left:246px;
 width:221px;
 height:217px;
@@ -299,7 +311,7 @@ height:217px;
 
 #div9{
 position:absolute;
-top:504px;
+top:700px;
 left:480px;
 width:221px;
 height:217px;
@@ -312,7 +324,7 @@ height:217px;
 
 #divbotones{
 position:relative;
-top:742px;
+top:1050px;
 left:11px;
 width:440px;
 height:23px;
@@ -349,7 +361,7 @@ text-align:center;
 /*Divs para la zona de compras*/
 div.divZonaCompraSi{
 position:relative;
-top:742px;
+top:1100px;
 padding:0px 11px 20px 11px;
 display:yes;
 width:693px;
@@ -384,7 +396,7 @@ background:#3c8c89;
 	padding-left:10px;
 	background:#378582;
 	}
-	
+
 	#divDatosPersonales0 {
 		position:relative;
 		left:0px;
@@ -412,19 +424,19 @@ background:#3c8c89;
 	}
 
 
-	
-	
-	
-/*CSS VALIDACION*/	
+
+
+
+/*CSS VALIDACION*/
 	input.textBien {background:#d1fbe1;}
 	input.textMal {background:pink;}
 	select.textBien {background:#d1fbe1;}
-	select.textMal {background:pink;}	
+	select.textMal {background:pink;}
 	span.alertTipoDeTarjeta {color:red;}
 
-	
-	
-/*Metodos de pago*/	
+
+
+/*Metodos de pago*/
 #metodosDePago{
 	position:relative;
 	top:8px;
@@ -440,15 +452,15 @@ background:#3c8c89;
 	height:70px;
 }
 
-input.logoTarjetas { 
+input.logoTarjetas {
 	bottom:6px;
 	position: relative;
-}	
+}
 
 
 
-	
-	
+
+
 /*Pie de pagina	*/
 
 footer{
@@ -456,7 +468,7 @@ footer{
 }
 a:link {
 	color:white;
-}	
+}
 #main-footer {
 	background: #333;
 	color: white;
@@ -464,22 +476,12 @@ a:link {
 	padding: 20px;
 	margin-top: 40px;
 }
-	
+
 #main-footer p {
 		margin: 0;
 	}
-	
-	
+
+
 #main-footer a {
 		color: white;
 	}
-
-	
-	
-	
-	
-	
-	
-	
-	
-
