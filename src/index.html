@@ -1,4 +1,4 @@
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="es">
 	<head>
 	<meta charset="utf-8">
@@ -6,11 +6,11 @@
 	<link href="style.css" rel="stylesheet" />
     <link href="https://file.myfontastic.com/KoeCka4Xo3MPbpMUcAmUmD/icons.css" rel="stylesheet">
     <meta name ="viewport" content="width=device-with, user-scalable=no, initial-scale=1.0,maximum scale=1.0, minimum-scale=1.0">
-		
+
 		<!--lee codigo javascript-->
     <script type="text/javascript" src="index.js"></script>
     <script type="text/javascript" src="validator.js"></script>
-		
+
 		<!--lee codigo css-->
 	<link type="text/css" href="style.css" rel="stylesheet" media="screen"/>
 	</head>
@@ -18,12 +18,12 @@
 
 	<body>
 	<header id="main-header">
-	<!-- / #logo-header -->	
+	<!-- / #logo-header -->
 	<a id="logo-header" href="#">
 	  <span class="site-name">GIFTBOX EXPRESS</span>
-	</a> 
+	</a>
 
-	<!-- / nav -->	 
+	<!-- / nav -->
 	<nav>
 	 <ul>
 	 <li><a href="#">Inicio</a></li>
@@ -32,11 +32,11 @@
 	 </ul>
 	</nav>
 	</header>
-	
+
 
 	<!-- / #main-header -->
-			 
-				
+
+
 	 <section id="main-content">
 		<article>
 			<header>
@@ -60,29 +60,29 @@
 			</li>
 		 </ul>
 		</div>
-		
-		
-						
-		<article>		
+
+
+
+		<article>
 		<div class="content">
-			<p>Tienes un Evento especial y se te olvidó el regalo?.<br>
+			<p class="text">Tienes un Evento especial y se te olvidó el regalo?.<br>
 			   No hay problema! <br>
 			   En solo 3 simples pasos, tendrás un original Giftbox para regalar.</p>
-		</div>	
-		<div align="center">
-			<img src="img/otros/cupon.png" width="700px" height="250px" alt="cupon"> 				
 		</div>
-		</article> 
+		<div align="center">
+			<img src="img/otros/cupon.png" width="700px" height="250px" alt="cupon">
+		</div>
+		</article>
 
-	</section> 
+	</section>
 
 
 	<div id="todo" class="todoNo">
-		<h2>Paso 1 : Elige tu giftbox</h2>
+		<h2 class="eligeGift">Paso 1 : Elige tu giftbox</h2>
 
 	<div id="menu" class="menuNo">
-				
-				
+
+
 		<!--Producto del 1 al 9-->
 		<div id="div1" name="DIVS"></div>
 		<div id="div2" name="DIVS"></div>
@@ -93,8 +93,8 @@
 		<div id="div7" name="DIVS"></div>
 		<div id="div8" name="DIVS"></div>
 		<div id="div9" name="DIVS"></div>
-		
-				
+
+
 				<!--Botones de compra-->
 				<div id="divbotones">
 					<input type="button" id="botonTotal" value="Calcular total"/>
@@ -103,19 +103,19 @@
 					<input type="button" id="botonConfirmar" value="Confirmar pedido" disabled="disabled"/>
 				 </div>
 
-				
+
 				<!--zona de compra, tablas, formularios, etc.-->
 				<div id="divZonaCompra" class="divZonaCompraNo">
 
-				
+
 				<!--Carrito de la compra-->
 				<div id="divTotal" class="divsNo">
 					<p><b>Carrito de la compra, si quiere hacer alguna modificacion aun esta a tiempo:</b></p>
 					<table id="tablaTotal"></table>
 				</div>
-				
-				
-					<!--Datos personales-->				
+
+
+					<!--Datos personales-->
 					<div id="divDatos" class="divsNo">
 						<p><b>Introduzca sus datos personales:</b></p>
 
@@ -123,11 +123,11 @@
 								<div id="divDatosPersonales1">
 									<label>Nombre completo:</label><br/>
 									<input type="text" id="nombre" value="" size="26" /><br/>
-									
-									
-									
-									
-									
+
+
+
+
+
 									<label>Fecha de nacimiento:</label><br/>
 									<select id="fechaNacimientoDia">
 										<option value="">&nbsp;dia&nbsp;</option>
@@ -146,40 +146,40 @@
 										<option value="10">Octubre</option>
 										<option value="11">Noviembre</option>
 										<option value="12">Diciembre</option>
-									</select>			
+									</select>
 									<select id="fechaNacimientoAnio">
 										<option value="">&nbsp;&nbsp;a�o&nbsp;</option>
 									</select><br/>
 								</div>
-								
+
 								<div id="divDatosPersonales2">
 									<label>Telefono movil:</label><br/>
 									<input type="text" id="movil" value="" size="8" maxlength="9"/><br/>
 
 									<label>Email:</label><br/>
 									<input type="text" id="email1" value="" size="25" /><br/>
-									
+
 									<label>Repita el email:</label><br/>
-									<input type="text" id="email2" value="" size="25" />							
+									<input type="text" id="email2" value="" size="25" />
 								</div>
 							</div>
 
-							
+
 						<div id="divDomicilio">
-							
-							
+
+
                             <label>Nombre Calle:</label>
 							<input type="text" id="CalleNombre" value="" size="20" /><br/>
-							
+
 							<label>Numero:</label>
 							<input type="text" id="Numero" value="" size="2" />&nbsp;&nbsp;
-								
-							
+
+
 							<label>Ciudad:</label>
 							<input type="text" id="Ciudad" value="" size="13"/>&nbsp;&nbsp;
-							
-							
-							
+
+
+
 							<label>Comuna:</label>
 							<select id="comuna">
 								<option value="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comuna</option>
@@ -220,41 +220,41 @@
 								<option value="35">Puente Alto</option>
 								<option value="36">Pirque</option>
 							</select>
-						</div>								
-					</div>					
-					
-					
+						</div>
+					</div>
+
+
 					<!--Datos de pago-->
 					<div id="divPago" class="divsNo">
 						<p><b>Introduzca los datos de la tarjeta de credito/debito donde se cargara el cobro:</b></p>
 
-						
+
 						<label>Titular de la tarjeta:</label><br/>
 						<input type="text" id="titular" value="" size="26" /><br/>
 
-						
+
 						<div id="metodosDePago">
 							<label><span  id="alertTipoDeTarjeta">Tipo de tarjeta:</span></label><br/>
 							<label for="visa">
 								<input type="radio" id="visa" name="tarjetas" class="logoTarjetas" value="Visa">
 								<img src="img/pago/visa.gif"></img>
 							</label>
-							  
+
 							<label for="masterCard">
 								<input type="radio" id="masterCard" name="tarjetas" class="logoTarjetas" value="MasterCard">
 								<img src="img/pago/mastercard.gif"></img>
 							</label>
-							  
+
 						</div>
-						
-						
+
+
 
 						<div id="divNumeroTarjeta">
 							<label>Numero tarjeta y CVC:</label><br/>
 							<input type="text" id="numeroTarjeta" value="" size="15" maxlength="16" />
 							<input type="text" id="cvcTarjeta" value="" size="2" maxlength="3" /><br/>
-							
-							
+
+
 							<select id="mesTarjeta">
 								<option value="">&nbsp;&nbsp;mes&nbsp;</option>
 							</select>
@@ -263,9 +263,9 @@
 								<option value="">&nbsp;&nbsp;a�o&nbsp;</option>
 							</select>
 						</div>
-					</div>						
+					</div>
 				</div>
-			</div>	
+			</div>
 		</div>
 
 
@@ -276,8 +276,8 @@
 		<footer id="main-footer">
 				<p>&copy; 2019 <a href="Andrea Vasquez Herrera">Andrea Vasquez Herrera</a></p>
 		</footer> <!-- / #main-footer -->
-		 
-			
-		
+
+
+
 	</body>
 </html>
