@@ -1,4 +1,4 @@
-![banner](https://github.com/AndreaVasquezHerrera/SCL012-Card-Validation/tree/master/src/img/imagenes%20readme/colores.jpg)
+![banner](https://i.ibb.co/5YxG8q8/inicio.jpg)
 
  
 
