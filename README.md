@@ -44,9 +44,10 @@ Su sistema permite que en solo 3 pasos, el usuario pueda comprar un regalo y env
 
  
 ##  Tipo de usuario
-Esta Web app esta enfocada en los _Millenials_ (Generación nacida entre 1980 y mediados de los '90s), Adultos jovenes los cuales representan un 50% el consumo mundial.
-Han crecido a la vez que los avances tecnológicos, son avidos usuarios de smartphones, consumen mucha información online y contenidos en redes sociales, por lo cual estan muy familiarizados con las Web Stores.
-Son idealistas, exigentes y siempre estan buscando experiencias que les aporten comodidad y eficiencia. 
+Esta Web app esta enfocada en usuarios  _Millenials_ (Generación nacida entre 1980 y mediados de los '90s), Adultos jovenes que se encuentren insertos en el mundo laboral.
+Son idealistas, exigentes y siempre estan buscando experiencias que les aporten comodidad y eficiencia.
+Han crecido a la vez que los avances tecnológicos, son avidos usuarios de smartphones, consumen mucha información online, contenidos en redes sociales, por lo cual estan muy familiarizados con las Web Stores y representan mas del 50% del consumo mundial.
+
 
 
 ## Objetivo principal 
@@ -88,6 +89,7 @@ Estos requerimientos son:
 #### Historia 4
 
 >" Yo como cliente deseo que sume sus productos, para que me permita comprar mas de un producto".
+
 
 
 
@@ -136,15 +138,22 @@ Una vez hecho el sketch, y rescatando las ideas principales de la plataforma , c
 
 ___
 
-## Wireframe
+##Paleta de colores
+Para elegir los colores del prototipo , busque paletas que fueran de sus preferencia , pinturas de ambiente inspiradas en ellos , y 
+tonalidades que los representaran como generacion.
+
+![paleta](https://i.ibb.co/pLG6zkn/paletamillenial.jpg) ![colores](https://i.ibb.co/SxLKvR8/colores2.jpg) ![colores2](https://i.ibb.co/x7JbVJx/colores.jpg) 
+
+
+
+
 
 
 
 
 #### Usuario 1
 
-![usuario-1](
-)
+
 
 #### Donde como resultado obtuvimos:
 
