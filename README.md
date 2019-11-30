@@ -59,7 +59,8 @@ Esta aplicacion busca cubrir las nuevas necesidades de compra de los usuarios. I
 Para la organización del proyecto se utilizaron la siguiente herramienta de planificación:
 
 
--Tareas en [`Trello`] (https://trello.com/invite/b/zYLEpODd/8fd70153f4aeeba3e0e9213a4d3a5116/luhn)
+-Tareas en `Trello` Puedes revisarlo haciendo click [aquí](https://trello.com/invite/b/zYLEpODd/8fd70153f4aeeba3e0e9213a4d3a5116/luhn)
+
 
 ___
 
@@ -122,10 +123,13 @@ Este contaba con:
 * Ingreso de medio de pago ( Validacion luhn de trajeta de credito), la cual es la base de todo el proyecto.
 * Pagina de  confirmacion de compra.
 
+
 ![sketch] (https://i.ibb.co/XsG510s/20191120-222632-mh1574306794542.jpg)
+Esta es la primera idea de como debia ser una pagina de compras simple. 
 
    
 ## Investigacion y Desarrollo
+
 Una vez hecho el sketch, y rescatando las ideas principales de la plataforma , consulte a posibles usuarios _Millenials_ para ver si cubria alguna necesidad como consumidores , y si coincidia con los objetivos planteados.
 
 
