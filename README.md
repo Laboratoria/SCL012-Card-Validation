@@ -92,7 +92,7 @@ Estos requerimientos son:
 
 
 
-#### Nuestros objetivos principales se resumirían en :
+#### Los objetivos principales se resumirían en :
 
 
 *Diseñar una pagina que simplifique el sistema de compra.
@@ -124,7 +124,7 @@ Este contaba con:
 * Pagina de  confirmacion de compra.
 
 
-![sketch] (https://i.ibb.co/XsG510s/20191120-222632-mh1574306794542.jpg)
+![sketch](https://i.ibb.co/XsG510s/20191120-222632-mh1574306794542.jpg)
 Esta es la primera idea de como debia ser una pagina de compras simple. 
 
    
