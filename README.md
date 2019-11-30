@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/5YxG8q8/inicio.jpg)
+![inicio](https://ibb.co/0rVrYTD)
 
  
 
@@ -59,42 +59,47 @@ Esta aplicacion busca cubrir las nuevas necesidades de compra de los usuarios. I
 Para la organización del proyecto se utilizaron la siguiente herramienta de planificación:
 
 
-- Planificación de proyecto. Tareas en [`Trello`]
+-Tareas en [`Trello`] (https://trello.com/invite/b/zYLEpODd/8fd70153f4aeeba3e0e9213a4d3a5116/luhn)
 
 ___
 
 # Historias de Usuario
 
-Las historias de usuario están basadas en los requerimientos u objetivos que tendría el usuario de la webapp.
+Las historias de usuario están basadas en los requerimientos u objetivos que tendría el cliente de la webapp.
 
 Estos requerimientos son:
 
 #### Historia 1
 
->" Yo como usuario deseo encontrar el menu de giftbox en forma fácil, para poder elegir mas rápido el regalo".
+>" Yo como cliente deseo encontrar el menu de giftboxs en forma fácil, para poder elegir mas rápido el regalo".
 
  
 #### Historia 2
 
->" Yo como usuario deseo ver imagenes detalladas de las opciones de regalos, para apreciar mejor el contenido de cada caja".
+>" Yo como cliente deseo ver imagenes detalladas de las opciones de regalos, para apreciar mejor el contenido de cada caja".
  
 
 #### Historia 3
 
->" Yo como usuario quiero que tenga un sistema simple de pago en linea, para poder pagar con tarjeta de credito.
+>" Yo como cliente quiero que tenga un sistema simple de pago en linea, para poder pagar con tarjeta de credito".
 
 
 #### Historia 4
 
->" Yo como usuario deseo que sume sus productos, para que me permita comprar mas de un producto.
+>" Yo como cliente deseo que sume sus productos, para que me permita comprar mas de un producto".
+
+
 
 
 #### Nuestros objetivos principales se resumirían en :
 
 
 *Diseñar una pagina que simplifique el sistema de compra.
+
 *Mostrar imagen detallada del contenido de cada giftbox.
+
 *Validar tarjeta de credito.
+
 *Sumar valores de los productos elegidos.
 
 
@@ -106,7 +111,7 @@ ___
 
 ## Sketch
 
-El primer sketch  se baso en lo que seria la idea inicial de pagina web y los contenidos que quería abarcar, pensando (como Millenial) que es lo que necesitaria una pagina de ventas, para que fuera sencilla de usar y asi optimizar el tiempo.
+El primer sketch  se baso en lo que seria la idea inicial de pagina web y los contenidos que debia abarcar, pensando (como Millenial) "que es lo que necesitaria una pagina de ventas", para que esta fuera sencilla de usar y asi poder optimizar el tiempo de navegacion.
 
 Este contaba con:
  
@@ -117,7 +122,7 @@ Este contaba con:
 * Ingreso de medio de pago ( Validacion luhn de trajeta de credito), la cual es la base de todo el proyecto.
 * Pagina de  confirmacion de compra.
 
-![sketch] ( insertar sketch)
+![sketch] (https://i.ibb.co/XsG510s/20191120-222632-mh1574306794542.jpg)
 
    
 ## Investigacion y Desarrollo
