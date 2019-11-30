@@ -140,13 +140,15 @@ ___
 
 ## Paleta de colores
 
-Para elegir los colores del prototipo , busque paletas que fueran de sus preferencia , pinturas de ambiente inspiradas en ellos , y 
+Para elegir los colores del prototipo , busque paletas que fueran de su preferencia , pinturas de ambiente inspiradas en ellos , y 
 tonalidades que los representaran como generacion.
 
- <img src="https://i.ibb.co/pLG6zkn/paletamillenial.jpg" alt="paleta" width="250" height="400"> <img src="https://i.ibb.co/SxLKvR8/colores2.jpg" alt="colores2" width="300" height="400"> <img src="https://i.ibb.co/x7JbVJx/colores.jpg" alt="colores" width="400" height="400">
+ <img src="https://i.ibb.co/pLG6zkn/paletamillenial.jpg" alt="paleta" width="200" height="400"> <img src="https://i.ibb.co/SxLKvR8/colores2.jpg" alt="colores2" width="300" height="400"> <img src="https://i.ibb.co/x7JbVJx/colores.jpg" alt="colores" width="400" height="400">
  
-Los tonos elegidos para representar la marca de la webb app fueron Copenhagen (frio y palido) y Magenta (calido y llamativo),esto para que visualmente fuera colorida y unisex , al igual que el contenido de los giftbox .
-Para usarlos en figma fueron transformados a codigo hex , con la intencion de si tienen buena acogida , usarlos en css del diseño final.
+Los tonos elegidos para representar la marca de la webb app fueron_Copenhagen_ (frio y palido) como color primario y _Magenta_ (calido y llamativo) como color secundario ,esto para que visualmente fuera colorida y unisex , al igual que el contenido de los giftbox.
+
+Para usarlos en figma fueron trasladados a codigo hex , con la intencion de si tienen buena acogida , usarlos en css del diseño final.
+si quieres revisar la paleta de colores puedes seguir este enlace : [aquí](https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=c2e8ce&secondary.color=9f116a)
 
 
 
