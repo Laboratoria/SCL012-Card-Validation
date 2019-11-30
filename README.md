@@ -143,7 +143,8 @@ ___
 Para elegir los colores del prototipo , busque paletas que fueran de sus preferencia , pinturas de ambiente inspiradas en ellos , y 
 tonalidades que los representaran como generacion.
 
-![paleta](https://i.ibb.co/pLG6zkn/paletamillenial.jpg) ![colores](https://i.ibb.co/SxLKvR8/colores2.jpg) ![colores2](https://i.ibb.co/x7JbVJx/colores.jpg) 
+ <img src="https://i.ibb.co/pLG6zkn/paletamillenial.jpg" alt="paleta" width="300" height="400">
+ ![colores](https://i.ibb.co/SxLKvR8/colores2.jpg) ![colores2](https://i.ibb.co/x7JbVJx/colores.jpg) 
 
 
 
