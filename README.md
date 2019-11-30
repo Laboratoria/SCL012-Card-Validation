@@ -138,7 +138,8 @@ Una vez hecho el sketch, y rescatando las ideas principales de la plataforma , c
 
 ___
 
-##Paleta de colores
+## Paleta de colores
+
 Para elegir los colores del prototipo , busque paletas que fueran de sus preferencia , pinturas de ambiente inspiradas en ellos , y 
 tonalidades que los representaran como generacion.
 
