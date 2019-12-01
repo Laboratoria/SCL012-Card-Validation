@@ -174,15 +174,19 @@ A través del color, se basa en las propiedades del color (tono, valor, saturaci
 A través de relaciones de tamaño de las formas.
 Como la web app es pequeña, decidi ocupar este principio solo en el color , como se mostro anteriormente , al elegir dos tonos muy diferentes entre si . El primario se usara como base , para que destaquen las imagenes y el texto , y el secundario para aquellos elementos que deseo resaltar.
 
+
+
 ### Repeticion
 
-
+La repetición le da unidad, consistencia y cohesión al conjunto, esta suele aportar una inmediata sensación de armonía.
+La presencia de módulos tiende a unificar, por esto en el prototipo se repetira la misma estructura y posicion del header , los mismos colores y el mismo diseño de botones, solo habra cambios en el contenido de cada seccion.
 
 
 
 ### Alineacion
 
-Alinear los elementos es una operación imprescindible para conseguir una composición ordenada y lógica.
+Alinear los elementos es una operación imprescindible para conseguir una composición ordenada y lógica, pues con ello se crean unidades visuales definidas y relaciones entre elementos.
+
 
 
 
