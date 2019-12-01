@@ -15,7 +15,6 @@
 * [Inicio de diseño](#Inicio-de-diseño)
 * [Sketch](#Sketch)
 * [Investigacion y Desarrollo](#Investigacion-y-Desarrollo)
-* [Wireframe](#wireframe)
 * [Prototipo de alta fidelidad](#Prototipo-de-alta-fidelidad)
 * [Versiones de prototipo](#Versiones-de-prototipo)
 * [Testeo y usabilidad](#Testeo-y-usabilidad)
@@ -132,7 +131,14 @@ Esta es la primera idea de como debia ser una pagina de compras simple.
    
 ## Investigacion y Desarrollo
 
-Una vez hecho el sketch, y rescatando las ideas principales de la plataforma , consulte a posibles usuarios _Millenials_ para ver si cubria alguna necesidad como consumidores , y si coincidia con los objetivos planteados.
+
+Una vez hecho el sketch, y rescatando las ideas principales de la plataforma, busque y reclute _Millenials_ en redes sociales que cumplieran con 3 caracteristicas principales:
+
+1)Laboralmente activo : Porque eso aumenta las posibilidades de que utilice web de compras y que posea tarjetas de credito.
+
+2)Que tenga experiencia media en web apps de compras : O sea que utilice o haya utilizado en reiteradas ocaciones paginas de compra en linea, tales como : Aliexpress, Wish , Shein , Ebay , o paginas mas pequeñas nacionales o internacionales , con sistema de pago en linea.
+
+3)Que tengan interes sobre los productos que se ofrecen en los giftbox : Asi los productos tendran un valor extra , si coincide con sus gustos o hobbies .
 
 
 
@@ -140,19 +146,48 @@ ___
 
 ## Paleta de colores
 
-Para elegir los colores del prototipo , busque paletas que fueran de su preferencia , pinturas de ambiente inspiradas en ellos , y 
+Para elegir los colores del prototipo, busque paletas que fueran de su preferencia , pinturas de ambiente inspiradas en ellos , y 
 tonalidades que los representaran como generacion.
 
  <img src="https://i.ibb.co/pLG6zkn/paletamillenial.jpg" alt="paleta" width="200" height="400"> <img src="https://i.ibb.co/SxLKvR8/colores2.jpg" alt="colores2" width="300" height="400"> <img src="https://i.ibb.co/x7JbVJx/colores.jpg" alt="colores" width="400" height="400">
  
-Los tonos elegidos para representar la marca de la web app fueron _Copenhagen_ (frio y palido) como color primario y _Magenta_ (calido y llamativo) como color secundario ,esto para que visualmente fuera colorida y unisex , al igual que el contenido de los giftbox.
+Los tonos elegidos para representar la marca de la web app fueron _Copenhagen_ (frio y palido) como color primario y _Magenta_ (calido y llamativo) como color secundario, esto para que visualmente fuera colorida y unisex , al igual que el contenido de los giftbox.
 
-Para usarlos en figma fueron trasladados a codigo hex , con la intencion de si tienen buena acogida , usarlos en css del diseño final.
+Para usarlos en figma fueron trasladados a codigo hex, con la intencion de si tienen buena acogida, usarlos en css del diseño final.
 
 
 Si quieres revisar la paleta de colores puedes seguir este enlace : [aquí](https://material.io/resources/color/#!/?view.left=0&view.right=1&primary.color=c2e8ce&secondary.color=9f116a)
 
 ![sketch](https://i.ibb.co/jkhQ0fS/Screenshot-from-2019-11-30-00-06-04.png)
+se utilizo el color primario principalemente para los fondos y el secundario para los detalles.
+
+
+## Principios de Diseño Visual
+
+
+### Contraste
+
+Existen 3 formas para generar contraste dentro de un diseño.
+
+A través de la forma, con la ruptura del patrón.
+A través del color, se basa en las propiedades del color (tono, valor, saturación).
+A través de relaciones de tamaño de las formas.
+Como la web app es pequeña, decidi ocupar este principio solo en el color , como se mostro anteriormente , al elegir dos tonos muy diferentes entre si . El primario se usara como base , para que destaquen las imagenes y el texto , y el secundario para aquellos elementos que deseo resaltar.
+
+### Repeticion
+
+
+
+
+
+### Alineacion
+
+Alinear los elementos es una operación imprescindible para conseguir una composición ordenada y lógica.
+
+
+
+
+### Jerarquia
 
 
 
@@ -162,14 +197,11 @@ Si quieres revisar la paleta de colores puedes seguir este enlace : [aquí](http
 
 
 
-#### Usuario 1
 
 
 
-#### Donde como resultado obtuvimos:
 
->"
->"
+
 ___
 
 ## Prototipo de alta fidelidad
