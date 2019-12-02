@@ -12,11 +12,10 @@
 * [Objetivo principal ](#Objetivo-principal)
 * [Planificación](#Planificación)
 * [Historias de usuario](#Historias-de-usuario)
-* [Inicio de diseño](#Inicio-de-diseño)
+* [Diseño](#Diseño)
 * [Sketch](#Sketch)
 * [Investigacion y Desarrollo](#Investigacion-y-Desarrollo)
 * [Prototipo de alta fidelidad](#Prototipo-de-alta-fidelidad)
-* [Versiones de prototipo](#Versiones-de-prototipo)
 * [Testeo y usabilidad](#Testeo-y-usabilidad)
 * [Test de usabilidad](#Test-de-usabilidad)
 * [Conclusiones y posibles soluciones](#Conclusiones-y-posibles-soluciones)
@@ -108,7 +107,7 @@ Estos requerimientos son:
 
 ___
 
-# INICIO DE DISEÑO
+# DISEÑO
 
 
 ## Sketch
@@ -149,7 +148,7 @@ ___
 Para elegir los colores del prototipo, busque paletas que fueran de su preferencia , pinturas de ambiente inspiradas en ellos , y 
 tonalidades que los representaran como generacion.
 
- <img src="https://i.ibb.co/pLG6zkn/paletamillenial.jpg" alt="paleta" width="200" height="400"> <img src="https://i.ibb.co/SxLKvR8/colores2.jpg" alt="colores2" width="300" height="400"> <img src="https://i.ibb.co/x7JbVJx/colores.jpg" alt="colores" width="400" height="400">
+ <img src="https://i.ibb.co/pLG6zkn/paletamillenial.jpg" alt="paleta" width="230" height="400"> <img src="https://i.ibb.co/SxLKvR8/colores2.jpg" alt="colores2" width="300" height="400"> <img src="https://i.ibb.co/x7JbVJx/colores.jpg" alt="colores" width="430" height="400">
  
 Los tonos elegidos para representar la marca de la web app fueron _Copenhagen_ (frio y palido) como color primario y _Magenta_ (calido y llamativo) como color secundario, esto para que visualmente fuera colorida y unisex , al igual que el contenido de los giftbox.
 
@@ -223,11 +222,7 @@ ___
 
 * Versión  Escritorio
 
-
-
- ![desktop]
-
- Puedes interactuar con el prototipo haciendo click[ aquí ]( https://www.figma.com/file/vwmerCzyytHn7v31mBn0G9/giftbox?node-id=0%3A1 )
+  Puedes interactuar con el prototipo haciendo click[ aquí ]( https://www.figma.com/file/vwmerCzyytHn7v31mBn0G9/giftbox?node-id=0%3A1 )
 
 
 
@@ -237,20 +232,22 @@ ___
 # Testeo y Usabilidad
 
 
-Para ver la usabilidad del ultimo prototipo, se realizo un testeo a la versión de escritorio.
+Los test de usabilidad son una forma de probar cómo los visitantes navegan en tu sitio web con el objetivo de facilitar su experiencia web y dejarla cada vez más simple e intuitiva. 
+Para ver la usabilidad del ultimo prototipo, se realizo un testeo a la versión de Desktop.
 
 
 ### Objetivos de testeo
 
 * Probar si la interfaz es fácil de entender o necesita mayor instrucción.
 * Comprobar si el acceso y los enlaces siguen un orden lineal.
-* Comprobar 
+* Comprobar si es factible realizar y completar una simulacion de orden de compra.
 * 
 * 
 
 
 ## Test de usabilidad
-Se escogió al azar a 5 representantes de nuestros Usuarios objetivos , y se les invito a realizar un test de usabilidad para el prototipo final de alta fidelidad creado en  _figma_ , para recibir feedback y con ello trabajar en la web app final.
+
+Como es un sitio web pequeño,se escogió al azar a 5 representantes de nuestros Usuarios objetivos , y se les invito a realizar un test de usabilidad para el prototipo final de alta fidelidad creado en  _figma_ , para recibir feedback y con ello trabajar en la web app final.
 
 
 
@@ -344,9 +341,9 @@ Actividad: Constructor civil.
 
 
 
-Para ver el video del ultimo usuario probando la aplicacion . Ver en este link [aquí](https://youtu.be/O5N00Wgkl9Q)
+Para ver el video del ultimo usuario probando el prototipo . Ver en este link [aquí](https://youtu.be/O5N00Wgkl9Q)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O5N00Wgkl9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
@@ -356,7 +353,36 @@ Para ver el video del ultimo usuario probando la aplicacion . Ver en este link [
 ## Conclusiones y posibles Soluciones
 
 
-En Resumen , la aceptacion de la pagina , fue positiva 
+  ![inicio](https://i.ibb.co/5YxG8q8/inicio.jpg)
+
+
+
+
+
+### Aprendizaje:
+
+Es la facilidad con la que el usuario es capaz de desarrollar las tareas asignadas por primera vez.
+Salvo algunas desviaciones ( las cuales fueron mas de caracter explorativo ) los usuarios pudieron comprender la funcion de cada uno de los botones y elementos,ademas de entender hacia donde iban estos. 
+La experiencia con otras paginas web, hizo que llevaran a cabo las instrucciones que se les habia dado, sin mayor dificultad. Esto es porque la estructura es muy semejante a otras web de compras.
+
+
+### Eficiencia
+
+Es la destreza con la que usuarios con experiencia llevan a cabo las instrucciones que se les han dado.
+
+
+
+### Memoria
+
+Este punto evalúa si al pasar cierto tiempo, después de la primera interacción, el usuario es capaz de recordar cómo funciona la aplicación sin necesidad de aprender a manejarla nuevamente.
+
+
+Errores
+
+La cantidad y gravedad de errores que cometa el usuario al interactuar con la aplicación, de igual manera se analiza la facilidad con la que se pueden enmendar los errores cometidos durante la prueba.
+Satisfacción
+
+Se evalúa qué tan satisfactoria fue la experiencia del usuario y si de alguna manera disfrutó la forma en que está diseñado el producto.
 
 
 
