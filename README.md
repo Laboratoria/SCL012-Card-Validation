@@ -179,24 +179,29 @@ Como la web app es pequeña, decidi ocupar este principio solo en el color , com
 ### Repeticion
 
 La repetición le da unidad, consistencia y cohesión al conjunto, esta suele aportar una inmediata sensación de armonía.
-La presencia de módulos tiende a unificar, por esto en el prototipo se repetira la misma estructura y posicion del header , los mismos colores y el mismo diseño de botones, solo habra cambios en el contenido de cada seccion.
+La presencia de módulos tiende a unificar, por esto en el prototipo se repetira la misma estructura y posicion del header, los mismos colores y el mismo diseño de botones, solo habra cambios en el contenido de cada seccion.
 
 
 
 ### Alineacion
 
-Alinear los elementos es una operación imprescindible para conseguir una composición ordenada y lógica, pues con ello se crean unidades visuales definidas y relaciones entre elementos.
-
-
+Alinear los elementos es una operación imprescindible para conseguir una composición ordenada y lógica, con ello se crean unidades visuales definidas y relaciones entre elementos.
+A excepcion del nombre y el menu del header, todo esta alineado al centro,porque se esta trabajando con datos que se repiten y estan cuadriculados y eso ayuda a que se vea ordenado y simetrico. 
+Se testeara el prototipo, si tiene buena aceptacion se dejara asi, 
+sino, se intentaran algunos cambios en la alineacion despues del menu, en la seccion de ingreso de datos y pago ( hacia el izquierdo, porque al derecho puede ocasionar algo de tension visual , en cambio el orden hacia el lado izquierdo , suele sentirse mas comodo porque nuestra vista esta acostumbrada a tratar con ello).
 
 
 
 ### Jerarquia
 
+Existe un orden jerárquico en la visión siendo el primer punto el más importante. Jerarquizar es ordenar en función de distintos parámetros diversos elementos. En el diseño, la jerarquía establece la mayor o menos importancia de los elementos que incluimos. En concreto es aquello que prioriza la visión.
+Algunos de los elementos gráficos como el color, el tamaño, la posición, las anomalías, las formas , tienen una clara connotación jerárquica.
+En este caso se aplico principalmente con la Tipografia.
+Las palabras más importantes muestran un mayor impacto, por lo que los usuarios pueden obtener la información clave con mayor claridad, entonces al dar reelevancia a los titulos de las secciones en relacion con el resto del texto aumentando su tamaño, llamará más la atención por lo que tendrán mayor grado de importancia. 
 
 
 
-
+## Fuentes
 
 
 
@@ -339,9 +344,9 @@ Actividad: Constructor civil.
 
 
 
-Para ver el video del ultimo usuario probando la aplicacion . Ver en este link
+Para ver el video del ultimo usuario probando la aplicacion . Ver en este link [aquí](https://youtu.be/O5N00Wgkl9Q)
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5N00Wgkl9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -351,7 +356,7 @@ Para ver el video del ultimo usuario probando la aplicacion . Ver en este link
 ## Conclusiones y posibles Soluciones
 
 
-
+En Resumen , la aceptacion de la pagina , fue positiva 
 
 
 
