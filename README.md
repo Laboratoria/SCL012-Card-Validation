@@ -369,20 +369,21 @@ Esto por que el uso diferentes pantallas queda mejor en un diseño de aplicacion
 
 Es la facilidad con la que el usuario es capaz de desarrollar las tareas asignadas por primera vez.
 Salvo algunas desviaciones ( las cuales fueron mas de caracter explorativo ) los usuarios pudieron comprender la funcion de cada uno de los botones y elementos,ademas de entender hacia donde iban estos. 
-La experiencia con otras paginas web, hizo que llevaran a cabo las instrucciones que se les habia dado, sin mayor dificultad. Esto es porque la estructura es muy semejante a otras web de compras.
+La experiencia con otras paginas web, hizo que llevaran a cabo las instrucciones que se les habia dado, sin mayor dificultad.
+ Esto es porque la estructura es muy semejante a otras web de compras.
 
 
 ### Eficiencia
 
-Es la destreza con la que usuarios con experiencia llevan a cabo las instrucciones que se les han dado. 
-Se considera agregar mas informacion sobre los precios y a las imagenes.
+Es la destreza con la que usuarios con experiencia llevan a cabo las instrucciones que se les han dado. Su similitud a otras paginas de ventas , principalmente en la entrega de datos y pago , da una sencaion de familaridad y esto permite que el usuario , cumpla su objetivo ( realizar una compra) , sin mayor problema.
+Eso si , se considera agregar mas informacion sobre los precios y a las imagenes, a solicitud de los usuarios.
 
 
 
 
 ### Memoria
 
-Se evaluo si al pasar cierto tiempo, después de la primera interacción, el usuario fue capaz de recordar cómo funciona la aplicación sin necesidad de aprender a manejarla nuevamente.
+Se evaluo si al pasar cierto tiempo, después de la primera interacción, el usuario fue capaz de recordar cómo funciona la aplicación sin necesidad de aprender a manejarla nuevamente.Y no se registraron problemas con eso , efectivamente los usuarios no requirieron repetir para entenderla
 
 
 
@@ -401,7 +402,6 @@ La Recepcion en general fue positiva ,segun los comentarios de cada uno.
 Si esta web existiera, la ocuparian, ya que consideran que tiene caracteristicas que no encuentran en otros sitios : tales como , la agilidad , la simpleza en su uso.
 
 
-uno de los cambios que se realizaron en la aplicaion final , fue adaptar el diseño un poco mas como pagina web 
 
 
 
