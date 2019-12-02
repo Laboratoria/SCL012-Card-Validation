@@ -226,6 +226,9 @@ ___
 ![Figma](https://i.ibb.co/rvg8yqp/20191128-221719.jpg)
 
 
+![Luhn](https://i.ibb.co/4KTCy6W/20191128-221920.jpg)
+
+
 * Versión  Escritorio
 
 Puedes interactuar con el prototipo haciendo click[ aquí ]( https://www.figma.com/file/vwmerCzyytHn7v31mBn0G9/giftbox?node-id=0%3A1 )
@@ -361,10 +364,11 @@ Para ver el video del ultimo usuario probando el prototipo . Ver en este link [a
 ## Conclusiones y posibles Soluciones
 
 
-      ![prototipo](https://i.ibb.co/5YxG8q8/inicio.jpg)
+![prototipo](https://i.ibb.co/rvg8yqp/20191128-221719.jpg)
 
-Uno de los cambios que se realizaron en la aplicacion final , fue adaptar el diseño un poco mas como pagina web porque era el requerimientode esta tarea.
-Esto por que el uso diferentes pantallas queda mejor en un diseño de aplicacion para celular. En una pagina web , es mas comodo que sea todo en una sola pagina, ademas da la sensacion que es mas pequeña y rapida.
+Uno de los cambios que se realizaron en la aplicacion final , fue adaptar el diseño un poco mas como pagina web porque era el requerimiento de esta tarea.
+Esto por que el uso multiples pantallas queda mejor en un diseño de aplicacion para celular.
+ En una pagina web, es mas comodo que sea todo en una sola pagina, ademas da la sensacion que es mas pequeña y rapida.
 
 
 
