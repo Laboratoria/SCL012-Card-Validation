@@ -1,14 +1,283 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tarjeta de crédito válida</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <header></header>
-    <main></main>
-    <footer></footer>
-    <script src="index.js" type="module"></script>
-  </body>
+<html lang="es">
+	<head>
+	<meta charset="utf-8">
+	<title>Gift Box</title>
+	<link href="style.css" rel="stylesheet" />
+    <link href="https://file.myfontastic.com/KoeCka4Xo3MPbpMUcAmUmD/icons.css" rel="stylesheet">
+    <meta name ="viewport" content="width=device-with, user-scalable=no, initial-scale=1.0,maximum scale=1.0, minimum-scale=1.0">
+
+		<!--lee codigo javascript-->
+    <script type="text/javascript" src="index.js"></script>
+    <script type="text/javascript" src="validator.js"></script>
+
+		<!--lee codigo css-->
+	<link type="text/css" href="style.css" rel="stylesheet" media="screen"/>
+	</head>
+
+
+	<body>
+	<header id="main-header">
+	<!-- / #logo-header -->
+	<a id="logo-header" href="#">
+	  <span class="site-name">GIFTBOX EXPRESS</span>
+	</a>
+
+	<!-- / nav -->
+	<nav>
+	 <ul>
+	 <li><a href="#">Inicio</a></li>
+	 <li><a href="#">Acerca de</a></li>
+	 <li><a href="#">Contacto</a></li>
+	 </ul>
+	</nav>
+	</header>
+
+
+	<!-- / #main-header -->
+
+
+	 <section id="main-content">
+		<article>
+			<header>
+			 <h1> Tu regalo en 1 hora</h1>
+			</header>
+		</article>
+
+		<div class="slider">
+		 <ul>
+			<li>
+			<img src="img/otros/186_chc-default(1).jpg" alt="foto1">
+			</li>
+			<li>
+			<img src="img/otros/186_chc-default(1).jpg" alt="foto2">
+			</li>
+			<li>
+			<img src="img/otros/186_chc-default(1).jpg" alt="foto3">
+			</li>
+		    <li>
+			<img src="img/otros/186_chc-default(1).jpg" alt="foto4">
+			</li>
+		 </ul>
+		</div>
+
+
+
+		<article>
+		<div class="content">
+			<p class="text">Tienes un Evento especial y se te olvidó el regalo?.<br>
+			   No hay problema! <br>
+			   En solo 3 simples pasos, tendrás un original Giftbox para regalar.</p>
+		</div>
+		<div align="center">
+			<img src="img/otros/cupon.png" width="700px" height="250px" alt="cupon">
+		</div>
+		</article>
+
+	</section>
+
+
+	<div id="todo" class="todoNo">
+		<h2 class="eligeGift">Paso 1 : Elige tu giftbox</h2>
+
+	<div id="menu" class="menuNo">
+
+
+		<!--Producto del 1 al 9-->
+		<div id="div1" name="DIVS"></div>
+		<div id="div2" name="DIVS"></div>
+		<div id="div3" name="DIVS"></div>
+		<div id="div4" name="DIVS"></div>
+		<div id="div5" name="DIVS"></div>
+		<div id="div6" name="DIVS"></div>
+		<div id="div7" name="DIVS"></div>
+		<div id="div8" name="DIVS"></div>
+		<div id="div9" name="DIVS"></div>
+
+
+				<!--Botones de compra-->
+				<div id="divbotones">
+					<input type="button" id="botonTotal" value="Calcular total"/>
+					<input type="button" id="botonDatos" value="Datos personales" disabled="disabled"/>
+					<input type="button" id="botonPago" value="Pago" disabled="disabled"/>
+					<input type="button" id="botonConfirmar" value="Confirmar pedido" disabled="disabled"/>
+				 </div>
+
+
+				<!--zona de compra, tablas, formularios, etc.-->
+				<div id="divZonaCompra" class="divZonaCompraNo">
+
+
+				<!--Carrito de la compra-->
+				<div id="divTotal" class="divsNo">
+					<p><b>Carrito de la compra, si quiere hacer alguna modificacion aun esta a tiempo:</b></p>
+					<table id="tablaTotal"></table>
+				</div>
+
+
+					<!--Datos personales-->
+					<div id="divDatos" class="divsNo">
+						<p><b>Introduzca sus datos personales:</b></p>
+
+							<div id="divDatosPersonales0">
+								<div id="divDatosPersonales1">
+									<label>Nombre completo:</label><br/>
+									<input type="text" id="nombre" value="" size="26" /><br/>
+
+
+
+
+
+									<label>Fecha de nacimiento:</label><br/>
+									<select id="fechaNacimientoDia">
+										<option value="">&nbsp;dia&nbsp;</option>
+									</select>
+									<select id="fechaNacimientoMes">
+										<option value="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mes</option>
+										<option value="1">Enero</option>
+										<option value="2">Febrero</option>
+										<option value="3">Marzo</option>
+										<option value="4">Abril</option>
+										<option value="5">Mayo</option>
+										<option value="6">Junio</option>
+										<option value="7">Julio</option>
+										<option value="8">Agosto</option>
+										<option value="9">Septiembre</option>
+										<option value="10">Octubre</option>
+										<option value="11">Noviembre</option>
+										<option value="12">Diciembre</option>
+									</select>
+									<select id="fechaNacimientoAnio">
+										<option value="">&nbsp;&nbsp;a�o&nbsp;</option>
+									</select><br/>
+								</div>
+
+								<div id="divDatosPersonales2">
+									<label>Telefono movil:</label><br/>
+									<input type="text" id="movil" value="" size="8" maxlength="9"/><br/>
+
+									<label>Email:</label><br/>
+									<input type="text" id="email1" value="" size="25" /><br/>
+
+									<label>Repita el email:</label><br/>
+									<input type="text" id="email2" value="" size="25" />
+								</div>
+							</div>
+
+
+						<div id="divDomicilio">
+
+
+                            <label>Nombre Calle:</label>
+							<input type="text" id="CalleNombre" value="" size="20" /><br/>
+
+							<label>Numero:</label>
+							<input type="text" id="Numero" value="" size="2" />&nbsp;&nbsp;
+
+
+							<label>Ciudad:</label>
+							<input type="text" id="Ciudad" value="" size="13"/>&nbsp;&nbsp;
+
+
+
+							<label>Comuna:</label>
+							<select id="comuna">
+								<option value="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comuna</option>
+								<option value="1">Quilicura</option>
+								<option value="2">Huechuraba</option>
+								<option value="3">Lo Barnechea</option>
+								<option value="4">Vitacura</option>
+								<option value="5">Conchali</option>
+								<option value="6">Independencia</option>
+								<option value="7">Recoleta</option>
+								<option value="8">Renca</option>
+								<option value="9">Cerro Navia</option>
+								<option value="10">Quinta Normal</option>
+								<option value="11">Las Condes</option>
+							    <option value="12">La Reina</option>
+							    <option value="13">Providencia</option>
+								<option value="14">Pudahuel</option>
+								<option value="15">Lo Prado</option>
+								<option value="16">Estacion Central</option>
+								<option value="17">Santiago</option>
+								<option value="18">Ñuñoa</option>
+								<option value="19">Maipu</option>
+								<option value="20">Cerrillos</option>
+								<option value="21">P.A.C</option>
+								<option value="22">San Miguel</option>
+								<option value="23">San Joaquin</option>
+								<option value="26">Lo Espejo</option>
+								<option value="24">Macul</option>
+								<option value="25">Peñalolen</option>
+								<option value="27">La Cisterna</option>
+								<option value="28">San Ramon</option>
+								<option value="29">La Granja</option>
+								<option value="30">La Florida</option>
+								<option value="31">Padre Hurtado</option>
+								<option value="32">San Bernardo</option>
+								<option value="33">El Bosque</option>
+								<option value="34">PLa Pintana</option>
+								<option value="35">Puente Alto</option>
+								<option value="36">Pirque</option>
+							</select>
+						</div>
+					</div>
+
+
+					<!--Datos de pago-->
+					<div id="divPago" class="divsNo">
+						<p><b>Introduzca los datos de la tarjeta de credito/debito donde se cargara el cobro:</b></p>
+
+
+						<label>Titular de la tarjeta:</label><br/>
+						<input type="text" id="titular" value="" size="26" /><br/>
+
+
+						<div id="metodosDePago">
+							<label><span  id="alertTipoDeTarjeta">Tipo de tarjeta:</span></label><br/>
+							<label for="visa">
+								<input type="radio" id="visa" name="tarjetas" class="logoTarjetas" value="Visa">
+								<img src="img/pago/visa.gif"></img>
+							</label>
+
+							<label for="masterCard">
+								<input type="radio" id="masterCard" name="tarjetas" class="logoTarjetas" value="MasterCard">
+								<img src="img/pago/mastercard.gif"></img>
+							</label>
+
+						</div>
+
+
+
+						<div id="divNumeroTarjeta">
+							<label>Numero tarjeta y CVC:</label><br/>
+							<input type="text" id="numeroTarjeta" value="" size="15" maxlength="16" />
+							<input type="text" id="cvcTarjeta" value="" size="2" maxlength="3" /><br/>
+
+
+							<select id="mesTarjeta">
+								<option value="">&nbsp;&nbsp;mes&nbsp;</option>
+							</select>
+
+							<select id="anioTarjeta">
+								<option value="">&nbsp;&nbsp;a�o&nbsp;</option>
+							</select>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+
+
+
+
+		<footer id="main-footer">
+				<p>&copy; 2019 <a href="Andrea Vasquez Herrera">Andrea Vasquez Herrera</a></p>
+		</footer> <!-- / #main-footer -->
+
+
+
+	</body>
 </html>
