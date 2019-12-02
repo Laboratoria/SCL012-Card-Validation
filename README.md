@@ -210,6 +210,12 @@ Las palabras más importantes muestran un mayor impacto, por lo que los usuarios
 
 
 
+
+
+
+
+
+
 ___
 
 ## Prototipo de alta fidelidad
@@ -217,12 +223,12 @@ ___
 
 
 ___ 
-
+![Figma](https://i.ibb.co/rvg8yqp/20191128-221719.jpg)
 
 
 * Versión  Escritorio
 
-  Puedes interactuar con el prototipo haciendo click[ aquí ]( https://www.figma.com/file/vwmerCzyytHn7v31mBn0G9/giftbox?node-id=0%3A1 )
+Puedes interactuar con el prototipo haciendo click[ aquí ]( https://www.figma.com/file/vwmerCzyytHn7v31mBn0G9/giftbox?node-id=0%3A1 )
 
 
 
@@ -241,13 +247,12 @@ Para ver la usabilidad del ultimo prototipo, se realizo un testeo a la versión 
 * Probar si la interfaz es fácil de entender o necesita mayor instrucción.
 * Comprobar si el acceso y los enlaces siguen un orden lineal.
 * Comprobar si es factible realizar y completar una simulacion de orden de compra.
-* 
-* 
+ 
 
 
 ## Test de usabilidad
 
-Como es un sitio web pequeño,se escogió al azar a 5 representantes de nuestros Usuarios objetivos , y se les invito a realizar un test de usabilidad para el prototipo final de alta fidelidad creado en  _figma_ , para recibir feedback y con ello trabajar en la web app final.
+Como es un sitio web pequeño, se escogió al azar a 5 representantes de nuestros Usuarios objetivos , y se les invito a realizar un test de usabilidad para el prototipo final de alta fidelidad creado en  _figma_ , para recibir feedback y con ello trabajar en la web app final.
 
 
 
@@ -353,9 +358,10 @@ Para ver el video del ultimo usuario probando el prototipo . Ver en este link [a
 ## Conclusiones y posibles Soluciones
 
 
-  ![inicio](https://i.ibb.co/5YxG8q8/inicio.jpg)
+      ![prototipo](https://i.ibb.co/5YxG8q8/inicio.jpg)
 
-
+Uno de los cambios que se realizaron en la aplicacion final , fue adaptar el diseño un poco mas como pagina web porque era el requerimientode esta tarea.
+Esto por que el uso diferentes pantallas queda mejor en un diseño de aplicacion para celular. En una pagina web , es mas comodo que sea todo en una sola pagina, ademas da la sensacion que es mas pequeña y rapida.
 
 
 
@@ -368,25 +374,36 @@ La experiencia con otras paginas web, hizo que llevaran a cabo las instrucciones
 
 ### Eficiencia
 
-Es la destreza con la que usuarios con experiencia llevan a cabo las instrucciones que se les han dado.
+Es la destreza con la que usuarios con experiencia llevan a cabo las instrucciones que se les han dado. 
+Se considera agregar mas informacion sobre los precios y a las imagenes.
+
 
 
 
 ### Memoria
 
-Este punto evalúa si al pasar cierto tiempo, después de la primera interacción, el usuario es capaz de recordar cómo funciona la aplicación sin necesidad de aprender a manejarla nuevamente.
+Se evaluo si al pasar cierto tiempo, después de la primera interacción, el usuario fue capaz de recordar cómo funciona la aplicación sin necesidad de aprender a manejarla nuevamente.
 
 
-Errores
+
+
+### Errores
 
 La cantidad y gravedad de errores que cometa el usuario al interactuar con la aplicación, de igual manera se analiza la facilidad con la que se pueden enmendar los errores cometidos durante la prueba.
-Satisfacción
+Si bien se considero anular los botones sin funcion en el figma , al realizar la aplicacion final estos se dejaron porque eventualmente si se les podria agregar un enlace.
+Los errores de navegacion, en realidad solo fueron parte del proceso de exploracion en la pagina.
 
-Se evalúa qué tan satisfactoria fue la experiencia del usuario y si de alguna manera disfrutó la forma en que está diseñado el producto.
+ 
+### Satisfacción
+
+Se evaluo qué tan satisfactoria fue la experiencia del usuario y si de alguna manera disfrutó la forma en que está diseñado el producto.
+La Recepcion en general fue positiva ,segun los comentarios de cada uno. 
+Si esta web existiera, la ocuparian, ya que consideran que tiene caracteristicas que no encuentran en otros sitios : tales como , la agilidad , la simpleza en su uso.
 
 
+uno de los cambios que se realizaron en la aplicaion final , fue adaptar el diseño un poco mas como pagina web 
 
-    
+
 
 
 
